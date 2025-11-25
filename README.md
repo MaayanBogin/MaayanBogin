@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Maayan! 
-- 👀 I’m interested in Machine Learning, Unity Game development and General Engineering.
-- 🌱 I’m currently studying for my B.Sc Computer Science at the Open University
+- 👀 I’m interested in Machine Learning, Unity Game development and General Engineering
+- 🎤 Currently going through an NLP phase
 
 <!---
 MaayanBogin/MaayanBogin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
