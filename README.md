@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Maayan! 
-- 👀 I’m interested in Machine Learning, Unity Game development and General Engineering
+- 👀 I’m interested in Machine Learning, Mechatronic and Software Engineering
 - 🎤 Currently going through an NLP phase
 
 <!---
